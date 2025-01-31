@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task_Buddy_App/static/css/main.9ad9f125.css",
+    "main.js": "/Task_Buddy_App/static/js/main.7e974924.js",
+    "index.html": "/Task_Buddy_App/index.html",
+    "main.9ad9f125.css.map": "/Task_Buddy_App/static/css/main.9ad9f125.css.map",
+    "main.7e974924.js.map": "/Task_Buddy_App/static/js/main.7e974924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad9f125.css",
+    "static/js/main.7e974924.js"
+  ]
+}
